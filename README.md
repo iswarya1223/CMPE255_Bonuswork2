@@ -66,6 +66,6 @@ for HTML which basically displays the user screens. The folder structure is as s
 
 
 ## UI Screens:
-
+![alt](https://github.com/iswarya1223/CMPE255_Bonuswork2/blob/main/after%20keyword%20search.png)
 
 
