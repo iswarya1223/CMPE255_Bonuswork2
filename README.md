@@ -8,7 +8,7 @@
 - - - 5.Models(Gaussian NB-wow , Gaussian NB - TFIDF , TensorFlow - LSTM)
 
 ## Summary
-- - - 1.Create the classification model for predicting tweet sentiment ([ colab link - ])
+- - - 1.Create the classification model for predicting tweet sentiment ([ colab link - https://github.com/iswarya1223/CMPE255_Bonuswork2/blob/main/BonusWork2.ipynb ])
 - - - 2.Flask framework is used for UI integration with the developed model.
 - - - 3.Once the search button is hit in UI, it actually gets matched tweets in real time from the twitter using tweepy API and then classifies the sentiment.
 
@@ -63,9 +63,10 @@ installed all the necessary packages required for the running of the application
 for HTML which basically displays the user screens. The folder structure is as shown below.
 
 ## Comparision of models using bar chart
-
+![alt](https://github.com/iswarya1223/CMPE255_Bonuswork2/blob/main/models_Comparision.png)
 
 ## UI Screens:
+![alt](https://github.com/iswarya1223/CMPE255_Bonuswork2/blob/main/before%20searching%20keyword.png)
 ![alt](https://github.com/iswarya1223/CMPE255_Bonuswork2/blob/main/after%20keyword%20search.png)
 
 
